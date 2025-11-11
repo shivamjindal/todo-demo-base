@@ -4,7 +4,6 @@ Automatically generate a well-structured git commit message based on recent chan
 
 ## Important
 - Prepend GIT_EDITOR=true to all git commands you run, especially the ones looking at diffs, so you can avoid getting blocked as you execute commands
-- If you can't get any information from git diff, just use your working memory to determine what has changed
 - Do not commit work unless explicitly instructed to do so
 
 ## Instructions
