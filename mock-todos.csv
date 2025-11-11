@@ -1,0 +1,46 @@
+date,task,completion
+2025-01-15,Buy groceries for the week,false
+2025-01-15,Call dentist to schedule appointment,false
+2025-01-15,Review project proposal,true
+2025-01-14,Finish reading the book chapter,false
+2025-01-14,Prepare presentation slides,true
+2025-01-14,Update resume,true
+2025-01-13,Go for a morning run,true
+2025-01-13,Write blog post about React hooks,false
+2025-01-13,Organize desk workspace,true
+2025-01-12,Plan weekend trip,false
+2025-01-12,Pay electricity bill,true
+2025-01-12,Learn new TypeScript features,false
+2025-01-11,Attend team meeting,true
+2025-01-11,Complete code review,false
+2025-01-11,Order birthday gift for friend,true
+2025-01-10,Clean the garage,false
+2025-01-10,Update project documentation,true
+2025-01-10,Call mom,true
+2025-01-09,Start new workout routine,false
+2025-01-09,Research vacation destinations,false
+2025-01-09,Finish tax preparation,true
+2025-01-08,Backup important files,true
+2025-01-08,Learn guitar chords,false
+2025-01-08,Write thank you notes,true
+2025-01-07,Plan healthy meal prep,false
+2025-01-07,Review investment portfolio,true
+2025-01-07,Organize photo collection,false
+2025-01-06,Attend yoga class,true
+2025-01-06,Update LinkedIn profile,false
+2025-01-06,Read tech articles,true
+2025-01-05,Water the plants,true
+2025-01-05,Plan family dinner,false
+2025-01-05,Complete online course module,true
+2025-01-04,Go grocery shopping,true
+2025-01-04,Write project proposal,false
+2025-01-04,Clean the car,true
+2025-01-03,Review monthly budget,true
+2025-01-03,Practice coding challenges,false
+2025-01-03,Call insurance company,true
+2025-01-02,Organize home office,false
+2025-01-02,Plan workout schedule,true
+2025-01-02,Update software dependencies,true
+2025-01-01,New Year resolution planning,true
+2025-01-01,Clean out email inbox,false
+2025-01-01,Set up new year goals,true
