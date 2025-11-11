@@ -92,9 +92,8 @@ Implement a dark mode toggle users can apply to switch between dark/light mode
 ```
 
 ### After Making Changes
-Once you've implemented a feature, commit your changes using:
+Once you've implemented and applied a feature, commit your changes using the below in an Agent:
 ```bash
-# In Cursor, use the command palette and run:
 /commit
 ```
 
