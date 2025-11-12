@@ -33,6 +33,12 @@ The app will be available at `http://localhost:5173`
 npm run build
 ```
 
+## Project Ideas: 
+
+- Add historical task view. As a user, I want to go back to see my tasks on previous dates and see which I did and did not complete
+- I want a switch to toggle dark/light mode
+- I want a dashboard to view my metrics around my task completion
+
 ## Tech Stack
 
 - **React 18** - UI framework
